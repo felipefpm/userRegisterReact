@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Felipe Pinto Mendonça",
+      "email": "felipe@exemplo.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Fabricia Barbosa",
+      "email": "fabricia@exemplo.com.br"
+    },
+    {
+      "name": "Marcela de Lavor",
+      "email": "mama@lexemplo.com.br",
+      "id": 3
+    },
+    {
+      "name": "Marcilene Mendonca",
+      "email": "macilene@macilene.com.br",
+      "id": 4
+    }
+  ]
+}
